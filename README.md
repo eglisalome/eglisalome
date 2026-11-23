@@ -8,6 +8,7 @@ physiology and spatial data during real hospital shifts. Psychologist by trainin
 - **[field-logger](https://github.com/cambridge-cognitive-architecture/field-logger)**: tablet app for shadowing studies: consent, sync checks, live logging of location, tasks and interruptions, repeated self-reports
 - **[wearable-pipeline](https://github.com/cambridge-cognitive-architecture/wearable-pipeline)**: aligns eye tracking, ECG and field logs on one clock; pupil and HRV preprocessing; per-session quality control
 - **[spatial-twin](https://github.com/cambridge-cognitive-architecture/spatial-twin)**: LiDAR scans vs floor plan: registration, visibility, walkable space
+- **[field-workbench](https://github.com/cambridge-cognitive-architecture/field-workbench)**: one local app for the work after each session: ingest with checksums, backup checks, QC, sync review, crossing coding, preprocessing to a master table
 - **[egoanon](https://github.com/cambridge-cognitive-architecture/egoanon)**: anonymisation of egocentric video, from blurring to people removed and depth
 
 ### Research
